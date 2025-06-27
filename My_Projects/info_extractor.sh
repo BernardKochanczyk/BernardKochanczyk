@@ -1,4 +1,6 @@
 #!/bin/bash
+# Author: Bernard Kochańczyk
+# License: MIT
 
 # Check if a file was passed
 if [[ -z "$1" ]]; then
