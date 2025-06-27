@@ -86,8 +86,8 @@ A combination of formal education, self-paced learning, and hands-on labs has sh
 
 ## 📁My Projects
 
-### info_extractor
-A Bash script that extracts important information from a file regardless of its type. It uses regex to extract IP addresses, MAC addresses, email addresses, URLs, and phone numbers. This script helps me analyze and extract critical information from email files and other data sources.
+### 🛠️ info_extractor
+A Bash script that extracts important information from a file regardless of its type. It uses regex to extract IP addresses, MAC addresses, email addresses, URLs, and phone numbers. This script helped me analyze and extract critical information from email files and other data sources.
 
 **Usage:**
 ```bash
