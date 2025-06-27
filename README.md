@@ -88,7 +88,7 @@ A combination of formal education, self-paced learning, and hands-on labs has sh
 
 Right now, I’m diving deep into **Windows Security & Windows Forensics**.
 
-### 🧭 Current Learning Goals:
+### 🧭 Current Learning From:
 - Reading *Windows Internals* by Pavel Yosifovich, David A. Solomon, Mark Russinovich, and Alex Ionescu  
 - Following [13Cubed’s Windows Forensics Series](https://www.youtube.com/@13Cubed)
 
