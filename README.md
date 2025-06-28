@@ -112,7 +112,7 @@ Right now, I’m diving deep into **Windows Security & Windows Forensics**.
 - 🎓 [TryHackMe – NeueVeles](https://tryhackme.com/p/NeueVeles)  
 - 🎯 [CyberDefenders – bernardkochanczyk](https://cyberdefenders.org/p/bernardkochanczyk)  
 - 💼 [LinkedIn – Bernard Kochańczyk](https://www.linkedin.com/in/bernard-kocha%C5%84czyk/)  
-- 📄 [TryHackMe Certificate: Linux Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-E2TCGIPO6V.pdf)  
+- 📄 [TryHackMe Certificate: Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-E2TCGIPO6V.pdf)  
 - 📄 [TryHackMe Certificate: Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XUS2GDP0PL.pdf)  
 - 📄 [TryHackMe Certificate: SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-H2YYC3JMC9.pdf)
 
