@@ -95,6 +95,8 @@ A Bash script that extracts important information from a file regardless of its 
 ```
 [🔍 View the info_extractor.sh script](My_Projects/info_extractor.sh)
 
+More to come!
+
 ---
 
 ## 🧪 What I’m Currently Working On
