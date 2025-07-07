@@ -107,6 +107,7 @@ Right now, I’m diving deep into **Windows Security & Windows Forensics**.
 - Reading Introduction to computing systems from bits & gates to C/C++ & beyond by Yale N. Patt and Sanjay J. Patel 
 - Following [13Cubed’s Windows Forensics Series](https://www.youtube.com/@13Cubed)
 - Preparing for SAL1 certificate from TryHackMe
+- Participating in SOS(Sekurak o Security)
 
 ---
 
